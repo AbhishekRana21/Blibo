@@ -1,11 +1,8 @@
-# Blibo
 ![GitHub Socialify](https://socialify.git.ci/AbhishekRana21/Blibo/image?description=1&font=Source%20Code%20Pro&language=1&owner=1&pattern=Diagonal%20Stripes&theme=Dark)
 
 <div align="center">
-<h3><a href="https:abhishekrana.com">Welcome</a><br>Abhishek Rana</h3>
+<h3>Welcome to the world of Blibo.</h3>
 </div>
-
-Welcome to the world of Blibo.
 
 ## ⚙️ Tech Stack
 
