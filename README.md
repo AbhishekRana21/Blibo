@@ -27,7 +27,3 @@ Blibo is a two players game with twenty five tiles on a board. The mission is to
 # Screenshot 3
 ![picture](https://github.com/AbhishekRana21/Blibo/blob/master/Screenshots/Screenshot3.png)
 <br>
-
-## 💻 How to play?
-
-Play Blibo. <br>
