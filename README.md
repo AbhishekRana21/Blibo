@@ -14,14 +14,17 @@
 </p>
 
 <br>
+
 ## Some Screenshots
 
 # Screenshot 1
 ![picture](https://github.com/AbhishekRana21/Blibo/blob/master/Screenshots/Screenshot1.png)
 <br>
+
 # Screenshot 2
 ![picture](https://github.com/AbhishekRana21/Blibo/blob/master/Screenshots/Screenshot2.png)
 <br>
+
 # Screenshot 3
 ![picture](https://github.com/AbhishekRana21/Blibo/blob/master/Screenshots/Screenshot3.png)
 <br>
