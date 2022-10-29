@@ -28,6 +28,7 @@
 # Screenshot 3
 ![picture](https://github.com/AbhishekRana21/Blibo/blob/master/Screenshots/Screenshot3.png)
 <br>
+
 ## 💻 How to play?
 
 Play Blibo. <br>
