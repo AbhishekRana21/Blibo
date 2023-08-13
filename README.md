@@ -17,13 +17,13 @@ Blibo is a two players game with twenty five tiles on a board. The mission is to
 ## Some Screenshots
 
 # Screenshot 1
-![picture](https://github.com/AbhishekRana21/Blibo/blob/master/Screenshots/Screenshot1.png)
+![picture](https://abhishekrana.com/Blibo/Screenshots/Screenshot1.png)
 <br>
 
 # Screenshot 2
-![picture](https://github.com/AbhishekRana21/Blibo/blob/master/Screenshots/Screenshot2.png)
+![picture](https://abhishekrana.com/Blibo/Screenshots/Screenshot2.png)
 <br>
 
 # Screenshot 3
-![picture](https://github.com/AbhishekRana21/Blibo/blob/master/Screenshots/Screenshot3.png)
+![picture](https://abhishekrana.com/Blibo/Screenshots/Screenshot3.png)
 <br>
